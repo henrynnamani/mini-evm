@@ -1,0 +1,3 @@
+THREE_GAS = 3
+FIVE_GAS = 5
+EIGHT_GAS = 8
